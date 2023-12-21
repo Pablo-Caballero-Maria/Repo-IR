@@ -56,7 +56,7 @@
 </rem:date>
 </rem:version>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>La empresa que solcita la aplicación sofware es CEMabogados, un pequeño despacho de abogados formado por dos abogados en el centro de Sevilla. <br/><br/>Tras varios años desempeñando la profesión se requiere una mejor gestión de la información existente así como ahorrar tiempo en las<br/> tareas que se realizan con mayor frecuencia, para ello se nos solicitan las siguientes funcionalidades:<br/><br/>   · Acceso a base de datos de Jurispruencia.<br/>   · Gestión de plazos<br/>   · Gestión de agenda<br/>   · Automatización de presupuestos<br/>   · Gestión de archivos digitalizados<br/>   · Transcripción automatizada de audios<br/>   · Conexión directa con <rem:ref oid="GLO-0016">LexNet</rem:ref><br/></rem:text>
+<rem:text>La empresa que solcita la aplicación sofware es CEMabogados, un pequeño despacho de abogados formado por dos abogados en el centro de Sevilla. <br/><br/>Tras varios años desempeñando la profesión se requiere una mejor gestión de la información existente así como ahorrar tiempo en las<br/> tareas que se realizan con mayor frecuencia, para ello se nos solicitan las siguientes funcionalidades:<br/><br/>   · Acceso a base de datos de Jurispruencia.<br/>   · Gestión de plazos<br/>   · Gestión de agenda<br/>   · Automatización de presupuestos<br/>   · Gestión de <rem:ref oid="GLO-0056">archivos</rem:ref> digitalizados<br/>   · Transcripción automatizada de audios<br/>   · Conexión directa con <rem:ref oid="GLO-0068">LexNet</rem:ref><br/></rem:text>
 </rem:paragraph>
 </rem:section>
 <rem:section oid="SEC-0009">
@@ -133,7 +133,7 @@
 <rem:day>12</rem:day>
 </rem:date>
 </rem:version>
-<rem:comments>Nos cederá una licencia para poder integrar en nuestra herramienta la base de datos de <rem:ref oid="GLO-0016">LexNet</rem:ref></rem:comments>
+<rem:comments>Nos cederá una licencia para poder integrar en nuestra herramienta la base de datos de <rem:ref oid="GLO-0068">LexNet</rem:ref></rem:comments>
 <rem:address><rem:tbd/></rem:address>
 <rem:telephone><rem:tbd/></rem:telephone>
 <rem:fax><rem:tbd/></rem:fax>
@@ -409,7 +409,7 @@
 <rem:urgency><rem:tbd/></rem:urgency>
 <rem:status value = "STV-0002"/>
 <rem:stability><rem:tbd/></rem:stability>
-<rem:description>permitir que un abogado, dentro de un feed, pueda descargarse la información y asociarla a un caso determinada. Asimismo, durante el intercambio de documentos en un chat perteneciente a un caso, los documentos intercambiados se introducen automáticamente en la carpeta de dicho caso</rem:description>
+<rem:description>permitir que un abogado, dentro de un feed, pueda descargarse la información y asociarla a un caso determinada. Asimismo, durante el intercambio de documentos en un <rem:ref oid="GLO-0061">chat</rem:ref> perteneciente a un caso, los documentos intercambiados se introducen automáticamente en la carpeta de dicho caso</rem:description>
 </rem:objective>
 </rem:objective>
 </rem:section>
@@ -454,7 +454,7 @@
 </rem:date>
 </rem:version>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>Nuestro cliente César es un abogado con la problemática de tratar con grandes volúmenes de información principalmente, por el cual se ve en necesidad de una herramienta de potente filtrado, y que esta se descargue de manera automática para agilizar el trato con la documentación. Además necesita una herramienta que solucione la problemática de la gestión de plazos, fechas y citas, y una herramienta de cálculo de tarifas. También requiere de conexión con <rem:ref oid="GLO-0016">LexNet</rem:ref> para comunicarse con el juzgado; y poder disponer de una herramienta de buena precisión de transcripción de vídeos de un juicio.<br/>Además se encuentra con la necesidad de disponer de una mayor presencia en redes.<br/></rem:text>
+<rem:text>Nuestro cliente César es un abogado con la problemática de tratar con grandes volúmenes de información principalmente, por el cual se ve en necesidad de una herramienta de potente filtrado, y que esta se descargue de manera automática para agilizar el trato con la documentación. Además necesita una herramienta que solucione la problemática de la gestión de plazos, fechas y citas, y una herramienta de cálculo de tarifas. También requiere de conexión con <rem:ref oid="GLO-0068">LexNet</rem:ref> para comunicarse con el juzgado; y poder disponer de una herramienta de buena precisión de transcripción de vídeos de un juicio.<br/>Además se encuentra con la necesidad de disponer de una mayor presencia en redes.<br/></rem:text>
 </rem:paragraph>
 </rem:section>
 <rem:section oid="SEC-0006">
@@ -721,7 +721,7 @@
 </rem:date>
 </rem:version>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>Base de datos de pago sobre <rem:ref oid="GLO-0012">jurisprudencia</rem:ref> que utiliza nuestro cliente.</rem:text>
+<rem:text>Base de datos de pago sobre <rem:ref oid="GLO-0067">jurisprudencia</rem:ref> que utiliza nuestro cliente.</rem:text>
 </rem:glossaryItem>
 <rem:glossaryItem oid="GLO-0014">
 <rem:name>Tribunal</rem:name>
@@ -821,7 +821,7 @@
 </rem:date>
 </rem:version>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>Tras más de 20 años trabajando los empleados de la empresa han llegado a un gran dominio de las herramientas que utilizan, lo que les ha conseuido realizar los procesos actuales con agilidad.<br/></rem:text>
+<rem:text>Tras más de 20 años trabajando los empleados de la empresa han llegado a un gran dominio de las <rem:ref oid="GLO-0064">herramientas</rem:ref> que utilizan, lo que les ha conseuido realizar los procesos actuales con agilidad.<br/></rem:text>
 </rem:glossaryItem>
 <rem:glossaryItem oid="GLO-0026">
 <rem:name>[FOR-003] Parte del sistema modernizado</rem:name>
@@ -878,7 +878,7 @@
 </rem:date>
 </rem:version>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>Tras tantos años trabajando tienen una gran cantidad de documentación, archivos y expedientes que no han sido digitalizados y son difíciles de acceder y buscar.</rem:text>
+<rem:text>Tras tantos años trabajando tienen una gran cantidad de documentación, <rem:ref oid="GLO-0056">archivos</rem:ref> y expedientes que no han sido digitalizados y son difíciles de acceder y buscar.</rem:text>
 </rem:glossaryItem>
 <rem:glossaryItem oid="GLO-0028">
 <rem:name>[DEB-002] Página web desfasada</rem:name>
@@ -906,7 +906,7 @@
 </rem:date>
 </rem:version>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>·La comunicación entre el cliente del abogado, y la administración de justicia es tediosa ya que se realiza por medios distintos (correo electrónico y <rem:ref oid="GLO-0016">lexnet</rem:ref>) y en cada paso la empresa debe guardar el archivo recibido o enviado en su almacenamiento en la nube, este proceso es muy ineficiente.</rem:text>
+<rem:text>·La comunicación entre el cliente del abogado, y la administración de justicia es tediosa ya que se realiza por medios distintos (<rem:ref oid="GLO-0062">correo</rem:ref> electrónico y <rem:ref oid="GLO-0068">lexnet</rem:ref>) y en cada paso la empresa debe guardar el archivo recibido o enviado en su almacenamiento en la nube, este proceso es muy ineficiente.</rem:text>
 </rem:glossaryItem>
 <rem:glossaryItem oid="GLO-0030">
 <rem:name>[DEB-004] Pérdida de tiempo visualizando contenido</rem:name>
@@ -1024,7 +1024,7 @@
 </rem:version>
 <rem:authors stakeholders="STK-0001 "/>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>Actualmente este proceso con un posible cliente que desea que su caso sea tratado por uno de los abogados de la empresa, para ello, se pone en contacto con el despacho y solicita tener una reunión en la que exponer su caso de manera telemática o presencial, en caso de que el abogado tenga disponibilidad y quiera llevar el caso, se produce el encuentro, tras dicho encuentro se envía la documentación pertinente por correo electrónico o en mano dependiendo de si fue telemática o no, en caso de que los documentos sean físicos deben de ser digitalizados antes de su posterior archivado.</rem:text>
+<rem:text>Actualmente este proceso con un posible cliente que desea que su caso sea tratado por uno de los abogados de la empresa, para ello, se pone en contacto con el despacho y solicita tener una reunión en la que exponer su caso de manera telemática o presencial, en caso de que el abogado tenga disponibilidad y quiera llevar el caso, se produce el encuentro, tras dicho encuentro se envía la documentación pertinente por <rem:ref oid="GLO-0062">correo</rem:ref> electrónico o en mano dependiendo de si fue telemática o no, en caso de que los documentos sean físicos deben de ser digitalizados antes de su posterior archivado.</rem:text>
 </rem:glossaryItem>
 <rem:graphicFile oid="GRF-0009">
 <rem:name>Comunicación abogado-cliente</rem:name>
@@ -1054,7 +1054,7 @@
 </rem:version>
 <rem:authors stakeholders="STK-0001 "/>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>Actualmente cuando un abogado desea introducir una nueva cita en el calendario debe, en primer lugar, consultar el calendario del resto de abogados y buscar un hueco disponible, en caso de que no se encuentre hueco habría que contactar con los miembros de la empresa mediante teléfono o correo para buscar una nueva fecha. Una vez designada la fecha se añade el evento a google calendar, asignándolo a todos los participantes, se adjunta la información que se vaya a tratar en la cita y se crea un recordatorio para que se notifique a los participantes antes del evento.</rem:text>
+<rem:text>Actualmente cuando un abogado desea introducir una nueva cita en el calendario debe, en primer lugar, consultar el calendario del resto de abogados y buscar un hueco disponible, en caso de que no se encuentre hueco habría que contactar con los miembros de la empresa mediante teléfono o <rem:ref oid="GLO-0062">correo</rem:ref> para buscar una nueva fecha. Una vez designada la fecha se añade el evento a google calendar, asignándolo a todos los participantes, se adjunta la información que se vaya a tratar en la cita y se crea un recordatorio para que se notifique a los participantes antes del evento.</rem:text>
 </rem:glossaryItem>
 <rem:graphicFile oid="GRF-0010">
 <rem:name>Registro de citas</rem:name>
@@ -1174,7 +1174,7 @@
 </rem:version>
 <rem:authors stakeholders="STK-0001 "/>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>Actualmente el software utilizado en la empresa está compuesto de herramientas de terceros, tales como, Google Calendar para la gestión de fechas y citas, Dropbox Business como único método de almacenamiento de información, es un sistema en la nube que garantiza el cumplimiento de la <rem:ref oid="GLO-0007">LOPD</rem:ref>, la empresa utiliza un sistema de carpetas dividiendo los documentos por años y expedientes, cada abogado tiene un almacenamiento personal.<br/>También se utiliza una base de datos de <rem:ref oid="GLO-0012">jurisprudencia</rem:ref> de terceros, en específico <rem:ref oid="GLO-0005">Tirant lo Blanch</rem:ref>.</rem:text>
+<rem:text>Actualmente el software utilizado en la empresa está compuesto de <rem:ref oid="GLO-0064">herramientas</rem:ref> de terceros, tales como, Google Calendar para la gestión de fechas y citas, Dropbox Business como único método de almacenamiento de información, es un sistema en la nube que garantiza el cumplimiento de la <rem:ref oid="GLO-0007">LOPD</rem:ref>, la empresa utiliza un sistema de carpetas dividiendo los documentos por años y expedientes, cada abogado tiene un almacenamiento personal.<br/>También se utiliza una base de datos de <rem:ref oid="GLO-0067">jurisprudencia</rem:ref> de terceros, en específico <rem:ref oid="GLO-0005">Tirant lo Blanch</rem:ref>.</rem:text>
 </rem:paragraph>
 </rem:section>
 </rem:section>
@@ -3340,7 +3340,7 @@
 </rem:date>
 </rem:version>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>La empresa que solcita la aplicación sofware es CEMabogados, un pequeño despacho de abogados formado por dos abogados en el centro de Sevilla. <br/><br/>Tras varios años desempeñando la profesión se requiere una mejor gestión de la información existente así como ahorrar tiempo en las<br/> tareas que se realizan con mayor frecuencia, para ello se nos solicitan las siguientes funcionalidades:<br/><br/>   · Acceso a base de datos de Jurispruencia.<br/>   · Gestión de plazos<br/>   · Gestión de agenda<br/>   · Automatización de presupuestos<br/>   · Gestión de archivos digitalizados<br/>   · Transcripción automatizada de audios<br/>   · Conexión directa con <rem:ref oid="GLO-0016">LexNet</rem:ref><br/></rem:text>
+<rem:text>La empresa que solcita la aplicación sofware es CEMabogados, un pequeño despacho de abogados formado por dos abogados en el centro de Sevilla. <br/><br/>Tras varios años desempeñando la profesión se requiere una mejor gestión de la información existente así como ahorrar tiempo en las<br/> tareas que se realizan con mayor frecuencia, para ello se nos solicitan las siguientes funcionalidades:<br/><br/>   · Acceso a base de datos de Jurispruencia.<br/>   · Gestión de plazos<br/>   · Gestión de agenda<br/>   · Automatización de presupuestos<br/>   · Gestión de <rem:ref oid="GLO-0056">archivos</rem:ref> digitalizados<br/>   · Transcripción automatizada de audios<br/>   · Conexión directa con <rem:ref oid="GLO-0068">LexNet</rem:ref><br/></rem:text>
 </rem:paragraph>
 </rem:section>
 <rem:section oid="SEC-0052">
@@ -3417,7 +3417,7 @@
 <rem:day>15</rem:day>
 </rem:date>
 </rem:version>
-<rem:comments>Nos cederá una licencia para poder integrar en nuestra herramienta la base de datos de <rem:ref oid="GLO-0016">LexNet</rem:ref></rem:comments>
+<rem:comments>Nos cederá una licencia para poder integrar en nuestra herramienta la base de datos de <rem:ref oid="GLO-0068">LexNet</rem:ref></rem:comments>
 <rem:address><rem:tbd/></rem:address>
 <rem:telephone><rem:tbd/></rem:telephone>
 <rem:fax><rem:tbd/></rem:fax>
@@ -3693,7 +3693,7 @@
 <rem:urgency><rem:tbd/></rem:urgency>
 <rem:status value = "STV-0002"/>
 <rem:stability><rem:tbd/></rem:stability>
-<rem:description>permitir que un abogado, dentro de un feed, pueda descargarse la información y asociarla a un caso determinada. Asimismo, durante el intercambio de documentos en un chat perteneciente a un caso, los documentos intercambiados se introducen automáticamente en la carpeta de dicho caso</rem:description>
+<rem:description>permitir que un abogado, dentro de un feed, pueda descargarse la información y asociarla a un caso determinada. Asimismo, durante el intercambio de documentos en un <rem:ref oid="GLO-0061">chat</rem:ref> perteneciente a un caso, los documentos intercambiados se introducen automáticamente en la carpeta de dicho caso</rem:description>
 </rem:objective>
 </rem:objective>
 </rem:section>
@@ -3840,7 +3840,7 @@
 </rem:date>
 </rem:version>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>En primer lugar, el sistema orbita en torno a la clase de Usuario, como es convencional en las aplicaciones. Aquí se recogen sus datos personales, como nombre, apellidos, DNI, etcétera. Asimismo, este puede ser de tipo cliente legal, o agente legal, y de este último, puede ser abogado o <rem:ref oid="GLO-0009">juez</rem:ref>. Cabe destacar que la figura del administrador se encarga de la revisión y aprobación manual de los perfiles de usuario, ya que es crítico que los perfiles sean reales, personales e intransferibles, como en una aplicación de carácter administrativo.<br/>Por un lado, los jueces trabajan en juzgados de diferentes tipos (de prmera instancia, de apelación, etcétera), y los abogados trabajan en bufetes con sedes en distintos lugares.<br/>Siguiendo por esa línea, un cliente trabaja conjuntamente con su abogado, sobre un caso, que conllevará un presupuesto determinado, calculado con ayuda del sistema y estipulado en base a la naturaleza del mismo, el &quot;asunto&quot;. Durante el transcurso del mismo, se generan 2 tipos de eventos: las reuniones o citas acordadas entre ambas, tras consultar el calendario del abogado y que a su vez se mostrará en este cuando se confirme; y toda la documentación aportada, que se almacena en el sistema asociada al caso y al cliente automáticamente y dividida por categoría, dependiendo del tipo de documento legal y transformada a objeto denuncia, sentencia, requerimiento, etcétera.<br/>Finalmente, los abogados acceden a sus feed, que se nutren de fuentes de información como revistas o <rem:ref oid="GLO-0016">LexNet</rem:ref>, que a su vez también proveen documentos de una misma manera similar a la anteriormente descrita.<br/>Adicionalmente, el sistema de gestión de pagos telemáticos genera al terminar el caso una factura en la que se pormenorizan los conceptos contemplados en el mismo, junto con el importe estipulado, algo contemplado y regulado normalmente por normativas legales.</rem:text>
+<rem:text>En primer lugar, el sistema orbita en torno a la clase de Usuario, como es convencional en las aplicaciones. Aquí se recogen sus datos personales, como nombre, apellidos, DNI, etcétera. Asimismo, este puede ser de tipo cliente legal, o agente legal, y de este último, puede ser abogado o <rem:ref oid="GLO-0009">juez</rem:ref>. Cabe destacar que la figura del administrador se encarga de la revisión y aprobación manual de los perfiles de usuario, ya que es crítico que los perfiles sean reales, personales e intransferibles, como en una aplicación de carácter administrativo.<br/>Por un lado, los jueces trabajan en juzgados de diferentes tipos (de prmera instancia, de apelación, etcétera), y los abogados trabajan en bufetes con sedes en distintos lugares.<br/>Siguiendo por esa línea, un cliente trabaja conjuntamente con su abogado, sobre un caso, que conllevará un presupuesto determinado, calculado con ayuda del sistema y estipulado en base a la naturaleza del mismo, el &quot;asunto&quot;. Durante el transcurso del mismo, se generan 2 tipos de eventos: las reuniones o citas acordadas entre ambas, tras consultar el calendario del abogado y que a su vez se mostrará en este cuando se confirme; y toda la documentación aportada, que se almacena en el sistema asociada al caso y al cliente automáticamente y dividida por categoría, dependiendo del tipo de documento legal y transformada a objeto denuncia, sentencia, requerimiento, etcétera.<br/>Finalmente, los abogados acceden a sus feed, que se nutren de fuentes de información como revistas o <rem:ref oid="GLO-0068">LexNet</rem:ref>, que a su vez también proveen documentos de una misma manera similar a la anteriormente descrita.<br/>Adicionalmente, el sistema de gestión de pagos telemáticos genera al terminar el caso una factura en la que se pormenorizan los conceptos contemplados en el mismo, junto con el importe estipulado, algo contemplado y regulado normalmente por normativas legales.</rem:text>
 </rem:paragraph>
 </rem:section>
 <rem:section oid="SEC-0062">
@@ -4069,7 +4069,7 @@
 </rem:date>
 </rem:version>
 <rem:comments>Ninguno</rem:comments>
-<rem:text>El abogado desea usar la herramienta de estimación de presupuesto o plazo para un nuevo caso. Introduce los datos relativos al mismo, y la interfaz de servicio hace de intermediaria e interactúa con la base de datos de <rem:ref oid="GLO-0012">jurisprudencia</rem:ref> para buscar casos similares. Después de obtenerlos, los procesa algorítmicamente para realizar la estimación, y la interfaz de usuario muestra el resultdo de la misma</rem:text>
+<rem:text>El abogado desea usar la herramienta de estimación de presupuesto o plazo para un nuevo caso. Introduce los datos relativos al mismo, y la interfaz de servicio hace de intermediaria e interactúa con la base de datos de <rem:ref oid="GLO-0067">jurisprudencia</rem:ref> para buscar casos similares. Después de obtenerlos, los procesa algorítmicamente para realizar la estimación, y la interfaz de usuario muestra el resultdo de la misma</rem:text>
 </rem:glossaryItem>
 <rem:glossaryItem oid="GLO-0055">
 <rem:name>Descripción del diagrama de secuencia de gestión documental</rem:name>
@@ -4085,6 +4085,747 @@
 <rem:comments>Ninguno</rem:comments>
 <rem:text>Cada vez que un usuario aporta un documento en la aplicación, la interfaz de servicio lo clasifica según el tipo de ficheo que es: documento legal (y dentro de este, de tipo denuncia, requerimiento, etc), vídeo o audio, y lo almacena. En caso de que el documento provenga de que una fuente del feed lo publique, la interfaz de servicio interactúa con las APIs externa de los boletines legales y revistas de abogacía para obtener la información, clasificarla y ordenarla, y mostrarla al abogado en el apartado correspondiente de la interfaz de usuario.</rem:text>
 </rem:glossaryItem>
+</rem:section>
+</rem:section>
+<rem:section oid="SEC-0066">
+<rem:name>Interfaz de usuario del sistema</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:level>1</rem:level>
+<rem:number>5 </rem:number>
+<rem:section oid="SEC-0067">
+<rem:name>Diagramas de navegación del sistema</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:level>2</rem:level>
+<rem:number>5.1 </rem:number>
+<rem:graphicFile oid="GRF-0021">
+<rem:name>Diagrama de navegación</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:fileName><![CDATA[.\fotos\diagrama navegacion.jpg]]></rem:fileName>
+</rem:graphicFile>
+</rem:section>
+<rem:section oid="SEC-0068">
+<rem:name>Descripción de la interfaz de usuario</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:level>2</rem:level>
+<rem:number>5.2 </rem:number>
+<rem:glossaryItem oid="GLO-0056">
+<rem:name>archivos</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista del almacenamiento de <rem:ref oid="GLO-0056">archivos</rem:ref> del abogado</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0057">
+<rem:name>calendario abogado</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista del calendario del abogado</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0058">
+<rem:name>calendario cliente</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista del calendario del cliente con las opciones de solicitar cita y editar cita</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0059">
+<rem:name>calendario cliente-1</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista de solicitar cita desde el punto de vista del cliente</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0060">
+<rem:name>calendario cliente-2</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista de editar cita desde el punto de vista del cliente</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0061">
+<rem:name>chat</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista del <rem:ref oid="GLO-0061">chat</rem:ref> tanto para cliente como para abogado</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0062">
+<rem:name>correo</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista del <rem:ref oid="GLO-0062">correo</rem:ref> para el abogado</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0063">
+<rem:name>encrypted_archive</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista en la que se introduce contraseña para desencriptar un archivo</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0064">
+<rem:name>Herramientas</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista de las <rem:ref oid="GLO-0064">herramientas</rem:ref> a disposición del abogado</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0065">
+<rem:name>home</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista de inicio desde el punto de vista del abogado<br/></rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0066">
+<rem:name>homeClient</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista del inicio desde el punto de vista del cliente</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0067">
+<rem:name>Jurisprudencia</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista de la herramienta <rem:ref oid="GLO-0067">jurisprudencia</rem:ref> para el abogado</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0068">
+<rem:name>LexNet</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista de la herramienta <rem:ref oid="GLO-0068">LexNet</rem:ref> para el abogado</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem oid="GLO-0069">
+<rem:name>Login</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:text>Vista de inicio de sesión para los usuarios</rem:text>
+</rem:glossaryItem>
+</rem:section>
+</rem:section>
+<rem:section oid="SEC-0069">
+<rem:name>Interfaz de servicios del sistema</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:level>1</rem:level>
+<rem:number>6 </rem:number>
+<rem:section oid="SEC-0071">
+<rem:name>Descripción de la interfaz de servicios del sistema</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:level>2</rem:level>
+<rem:number>6.1 </rem:number>
+<rem:systemOperation
+ oid="SOP-0001">
+<rem:name>createCita</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:description>Se almacena una cita en el sistema<br/>parámetros: fecha, hora, lugar, descripción. estado, prioridad, modalidad</rem:description>
+<rem:resultType>Cita</rem:resultType>
+</rem:systemOperation>
+<rem:systemOperation
+ oid="SOP-0002">
+<rem:name>getCita</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 STK-0002 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:description>Obtiene una cita almacenada en el sistema<br/>parámetro: id</rem:description>
+<rem:resultType>Cita</rem:resultType>
+</rem:systemOperation>
+<rem:systemOperation
+ oid="SOP-0003">
+<rem:name>updateCita</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 STK-0002 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:description>Actualiza los parámetros de una cita esto permite, por ejemplo, aceptar una cita o cancelarla.<br/>parámetros: id,  fecha, hora, lugar, descripción. estado, prioridad, modalidad</rem:description>
+<rem:resultType>Cita</rem:resultType>
+</rem:systemOperation>
+<rem:systemOperation
+ oid="SOP-0004">
+<rem:name>createUser</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 STK-0002 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:description>Se almacena en el sistema un usuario<br/>parámetros: nombre, apellidos, contraseña, email, teléfono, dni, certificado digital</rem:description>
+<rem:resultType>User</rem:resultType>
+</rem:systemOperation>
+<rem:systemOperation
+ oid="SOP-0005">
+<rem:name>updateUser</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 STK-0002 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:description>Actualiza los datos de un usuario.<br/>parámetros: id, nombre, apellidos, contraseña, email, teléfono, dni, certificado digital</rem:description>
+<rem:resultType>User</rem:resultType>
+</rem:systemOperation>
+<rem:systemOperation
+ oid="SOP-0006">
+<rem:name>approveUser</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 STK-0002 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:description>Un administrador aprueba o rechaza el perfil de un usuario</rem:description>
+<rem:resultType>void</rem:resultType>
+</rem:systemOperation>
+<rem:systemOperation
+ oid="SOP-0007">
+<rem:name>payByPayPal</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 STK-0002 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:description>Se hace uso de la api de PayPal para efectuar el pago</rem:description>
+<rem:resultType>void</rem:resultType>
+</rem:systemOperation>
+<rem:systemOperation
+ oid="SOP-0008">
+<rem:name>createFactura</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 STK-0002 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:description>se almacena una factura en el sistema.<br/>parámetros: nº factura, fecha emisión, fecha vencimiento, descripción del servicio, importe</rem:description>
+<rem:resultType>Factura</rem:resultType>
+</rem:systemOperation>
+<rem:systemOperation
+ oid="SOP-0009">
+<rem:name>estimatePresupuestoOPlazo</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 STK-0002 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:description><rem:tbd/></rem:description>
+<rem:resultType>Se calcula la estimación del presupuesto o plazo a partier de los parámetros introducidos.
+parámetros: presupuestoOPlazo, tipo, urgencia, fecha</rem:resultType>
+</rem:systemOperation>
+<rem:systemOperation
+ oid="SOP-0010">
+<rem:name>saveFichero</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 STK-0002 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:description>se almacena un fichero en el sistema.<br/>parámetro: fichero<br/></rem:description>
+<rem:resultType>void</rem:resultType>
+</rem:systemOperation>
+<rem:traceabilityMatrix oid="TRM-0001">
+<rem:name>Matriz diagrama de secuencia-operaciones del sistema</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders="STK-0001 STK-0002 "/>
+<rem:comments>Ninguno</rem:comments>
+<rem:tr>
+<rem:th/>
+<rem:th oid ="SOP-0001"/>
+<rem:th oid ="SOP-0002"/>
+<rem:th oid ="SOP-0003"/>
+<rem:th oid ="SOP-0004"/>
+<rem:th oid ="SOP-0005"/>
+<rem:th oid ="SOP-0006"/>
+<rem:th oid ="SOP-0007"/>
+<rem:th oid ="SOP-0008"/>
+<rem:th oid ="SOP-0009"/>
+<rem:th oid ="SOP-0010"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0001"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0002"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0003"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0006"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0007"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0009"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0010"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0011"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0012"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0013"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0014"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0015"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0016"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0017"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0018"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0019"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="yes"/>
+<rem:td mark ="no"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0020"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="yes"/>
+</rem:tr>
+<rem:tr>
+<rem:th oid ="GRF-0021"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+<rem:td mark ="no"/>
+</rem:tr>
+</rem:traceabilityMatrix>
+</rem:section>
+<rem:section oid="SEC-0070">
+<rem:name>Servicios consumidos por el sistema</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2023</rem:year>
+<rem:month>12</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Ninguno</rem:comments>
+<rem:level>2</rem:level>
+<rem:number>6.2 </rem:number>
 </rem:section>
 </rem:section>
 </rem:d_requirementsSpecification>
@@ -4123,22 +4864,22 @@
 <rem:trace source="OBJ-0003"  target="OBJ-0004" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0003"  target="GRF-0002" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0001"  target="IRQ-0001" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0002"  target="IRQ-0003" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0003"  target="IRQ-0004" >
+<rem:trace source="OBJ-0003"  target="OBJ-0008" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source="OBJ-0004"  target="OBJ-0008" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0002"  target="GRF-0001" >
+<rem:trace source="OBJ-0009"  target="GRF-0003" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0008"  target="GRF-0003" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0018"  target="UC-0004" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0005"  target="GRF-0007" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source="OBJ-0007"  target="IRQ-0006" >
@@ -4147,82 +4888,52 @@
 <rem:trace source="OBJ-0008"  target="GRF-0006" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0005"  target="GRF-0007" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0002"  target="IRQ-0002" >
+<rem:trace source="OBJ-0003"  target="GRF-0002" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source="OBJ-0009"  target="OBJ-0008" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0005"  target="IRQ-0005" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0008"  target="IRQ-0004" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0008"  target="GRF-0003" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0009"  target="GRF-0003" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0004"  target="GRF-0003" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0008"  target="OBJ-0009" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0003"  target="OBJ-0008" >
+<rem:trace source="OBJ-0003"  target="GRF-0007" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source="OBJ-0006"  target="GRF-0007" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0003"  target="GRF-0007" >
+<rem:trace source="OBJ-0002"  target="GRF-0001" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0005"  target="OBJ-0028" >
+<rem:trace source="OBJ-0001"  target="IRQ-0001" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0021"  target="GRF-0007" >
+<rem:trace source="OBJ-0003"  target="IRQ-0004" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0018"  target="UC-0004" >
+<rem:trace source="OBJ-0002"  target="IRQ-0003" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0022"  target="OBJ-0021" >
+<rem:trace source="OBJ-0005"  target="IRQ-0005" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0024"  target="IRQ-0004" >
+<rem:trace source="OBJ-0008"  target="OBJ-0009" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0020"  target="GRF-0003" >
+<rem:trace source="OBJ-0008"  target="IRQ-0004" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0020"  target="OBJ-0006" >
+<rem:trace source="OBJ-0004"  target="GRF-0003" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0021"  target="OBJ-0005" >
+<rem:trace source="OBJ-0002"  target="IRQ-0002" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0003"  target="OBJ-0027" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0008"  target="OBJ-0030" >
+<rem:trace source="OBJ-0017"  target="OBJ-0001" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source="OBJ-0001"  target="FRQ-0001" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0018"  target="IRQ-0003" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0020"  target="OBJ-0008" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0020"  target="OBJ-0019" >
+<rem:trace source="GRF-0016"  target="SOP-0004" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source="OBJ-0019"  target="IRQ-0004" >
@@ -4231,25 +4942,70 @@
 <rem:trace source="OBJ-0019"  target="OBJ-0008" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0017"  target="OBJ-0001" >
+<rem:trace source="OBJ-0019"  target="GRF-0002" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0024"  target="OBJ-0009" >
+<rem:trace source="OBJ-0022"  target="OBJ-0021" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0008"  target="OBJ-0030" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="GRF-0015"  target="SOP-0001" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0021"  target="GRF-0007" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0020"  target="GRF-0003" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0020"  target="OBJ-0008" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0021"  target="OBJ-0005" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0023"  target="OBJ-0007" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0018"  target="IRQ-0003" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source="OBJ-0019"  target="OBJ-0004" >
 <rem:isChecked/>
 </rem:trace>
+<rem:trace source="OBJ-0025"  target="OBJ-0024" >
+<rem:isChecked/>
+</rem:trace>
 <rem:trace source="OBJ-0018"  target="IRQ-0002" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0019"  target="GRF-0002" >
+<rem:trace source="OBJ-0020"  target="OBJ-0019" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0024"  target="GRF-0003" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0024"  target="IRQ-0004" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0020"  target="OBJ-0006" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0001"  target="OBJ-0016" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0003"  target="OBJ-0027" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source="OBJ-0019"  target="GRF-0007" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0025"  target="OBJ-0024" >
+<rem:trace source="OBJ-0007"  target="OBJ-0029" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0022"  target="GRF-0007" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source="OBJ-0025"  target="GRF-0003" >
@@ -4258,58 +5014,52 @@
 <rem:trace source="OBJ-0024"  target="GRF-0006" >
 <rem:isChecked/>
 </rem:trace>
+<rem:trace source="OBJ-0024"  target="OBJ-0009" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="OBJ-0005"  target="OBJ-0028" >
+<rem:isChecked/>
+</rem:trace>
 <rem:trace source="OBJ-0002"  target="OBJ-0026" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0023"  target="OBJ-0007" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0007"  target="OBJ-0029" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source="OBJ-0001"  target="OBJ-0016" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source="OBJ-0008"  target="FRQ-0002" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0024"  target="GRF-0003" >
+<rem:trace source="GRF-0016"  target="SOP-0005" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source="OBJ-0022"  target="GRF-0007" >
+<rem:trace source="GRF-0017"  target="SOP-0001" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="GRF-0018"  target="SOP-0007" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="GRF-0018"  target="SOP-0008" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="GRF-0015"  target="SOP-0003" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="GRF-0015"  target="SOP-0002" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="GRF-0016"  target="SOP-0006" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="GRF-0017"  target="SOP-0002" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="GRF-0017"  target="SOP-0003" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="GRF-0020"  target="SOP-0010" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source="GRF-0019"  target="SOP-0009" >
 <rem:isChecked/>
 </rem:trace>
 <rem:predefinedValueTypes>
-<rem:predefinedValueType oid="PVT-0005">
-<rem:name>String</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2000</rem:year>
-<rem:month>10</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>Predefined OCL type</rem:comments>
-<rem:description>Alphanumeric strings</rem:description>
-<rem:definition>(null)</rem:definition>
-</rem:predefinedValueType>
-<rem:predefinedValueType oid="PVT-0002">
-<rem:name>Real</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2000</rem:year>
-<rem:month>10</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>Predefined OCL type</rem:comments>
-<rem:description>Real numbers</rem:description>
-<rem:definition>(null)</rem:definition>
-</rem:predefinedValueType>
 <rem:predefinedValueType oid="PVT-0001">
 <rem:name>Enum Literal</rem:name>
 <rem:version>
@@ -4325,8 +5075,8 @@
 <rem:description>Enumeration literals</rem:description>
 <rem:definition>(null)</rem:definition>
 </rem:predefinedValueType>
-<rem:predefinedValueType oid="PVT-0004">
-<rem:name>Natural</rem:name>
+<rem:predefinedValueType oid="PVT-0002">
+<rem:name>Real</rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
@@ -4337,22 +5087,7 @@
 </rem:date>
 </rem:version>
 <rem:comments>Predefined OCL type</rem:comments>
-<rem:description>Natural numbers</rem:description>
-<rem:definition>(null)</rem:definition>
-</rem:predefinedValueType>
-<rem:predefinedValueType oid="PVT-0006">
-<rem:name>Date</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2000</rem:year>
-<rem:month>10</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>Predefined OCL type (non-standard)</rem:comments>
-<rem:description>Dates</rem:description>
+<rem:description>Real numbers</rem:description>
 <rem:definition>(null)</rem:definition>
 </rem:predefinedValueType>
 <rem:predefinedValueType oid="PVT-0003">
@@ -4385,6 +5120,51 @@
 <rem:description>Hour:minutes:seconds</rem:description>
 <rem:definition>(null)</rem:definition>
 </rem:predefinedValueType>
+<rem:predefinedValueType oid="PVT-0004">
+<rem:name>Natural</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2000</rem:year>
+<rem:month>10</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Predefined OCL type</rem:comments>
+<rem:description>Natural numbers</rem:description>
+<rem:definition>(null)</rem:definition>
+</rem:predefinedValueType>
+<rem:predefinedValueType oid="PVT-0005">
+<rem:name>String</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2000</rem:year>
+<rem:month>10</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Predefined OCL type</rem:comments>
+<rem:description>Alphanumeric strings</rem:description>
+<rem:definition>(null)</rem:definition>
+</rem:predefinedValueType>
+<rem:predefinedValueType oid="PVT-0006">
+<rem:name>Date</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2000</rem:year>
+<rem:month>10</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>Predefined OCL type (non-standard)</rem:comments>
+<rem:description>Dates</rem:description>
+<rem:definition>(null)</rem:definition>
+</rem:predefinedValueType>
 </rem:predefinedValueTypes>
 <rem:predefinedValues>
 <rem:changeRequestStatusValue oid = "CRV-0001">
@@ -4393,20 +5173,20 @@
 <rem:changeRequestStatusValue oid = "CRV-0002">
 <rem:name>pendiente de análisis</rem:name>
 </rem:changeRequestStatusValue>
-<rem:changeRequestStatusValue oid = "CRV-0006">
-<rem:name>rechazado</rem:name>
-</rem:changeRequestStatusValue>
 <rem:changeRequestStatusValue oid = "CRV-0005">
 <rem:name>verificado</rem:name>
-</rem:changeRequestStatusValue>
-<rem:changeRequestStatusValue oid = "CRV-0003">
-<rem:name>pendiente de aprobar/rechazar</rem:name>
 </rem:changeRequestStatusValue>
 <rem:changeRequestStatusValue oid = "CRV-0004">
 <rem:name>pendiente de realización</rem:name>
 </rem:changeRequestStatusValue>
-<rem:conflictStatusValue oid = "CSV-0003">
-<rem:name>en proceso de negociación</rem:name>
+<rem:changeRequestStatusValue oid = "CRV-0003">
+<rem:name>pendiente de aprobar/rechazar</rem:name>
+</rem:changeRequestStatusValue>
+<rem:changeRequestStatusValue oid = "CRV-0006">
+<rem:name>rechazado</rem:name>
+</rem:changeRequestStatusValue>
+<rem:conflictStatusValue oid = "CSV-0001">
+<rem:name>PD</rem:name>
 </rem:conflictStatusValue>
 <rem:conflictStatusValue oid = "CSV-0002">
 <rem:name>no resuelto</rem:name>
@@ -4414,31 +5194,37 @@
 <rem:conflictStatusValue oid = "CSV-0004">
 <rem:name>resuelto</rem:name>
 </rem:conflictStatusValue>
-<rem:conflictStatusValue oid = "CSV-0001">
-<rem:name>PD</rem:name>
+<rem:conflictStatusValue oid = "CSV-0003">
+<rem:name>en proceso de negociación</rem:name>
 </rem:conflictStatusValue>
-<rem:defectStatusValue oid = "DSV-0004">
-<rem:name>eliminado</rem:name>
-</rem:defectStatusValue>
-<rem:defectStatusValue oid = "DSV-0002">
-<rem:name>no eliminado</rem:name>
-</rem:defectStatusValue>
 <rem:defectStatusValue oid = "DSV-0001">
 <rem:name>PD</rem:name>
 </rem:defectStatusValue>
 <rem:defectStatusValue oid = "DSV-0003">
 <rem:name>en proceso de negociación</rem:name>
 </rem:defectStatusValue>
-<rem:defectTypeValue oid = "DTV-0001">
-<rem:name>PD</rem:name>
-<rem:description>
-<![CDATA[Por Determinar]]>
-</rem:description>
-</rem:defectTypeValue>
+<rem:defectStatusValue oid = "DSV-0004">
+<rem:name>eliminado</rem:name>
+</rem:defectStatusValue>
+<rem:defectStatusValue oid = "DSV-0002">
+<rem:name>no eliminado</rem:name>
+</rem:defectStatusValue>
 <rem:defectTypeValue oid = "DTV-0002">
 <rem:name>Ambigüedad</rem:name>
 <rem:description>
 <![CDATA[El requisito o requisitos, aunque comprensibles, tienen más de una interpretación posible]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0005">
+<rem:name>No verificabilidad</rem:name>
+<rem:description>
+<![CDATA[No se puede comprobar que el sistema satisface el requisito o requisitos]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0001">
+<rem:name>PD</rem:name>
+<rem:description>
+<![CDATA[Por Determinar]]>
 </rem:description>
 </rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0003">
@@ -4453,34 +5239,10 @@
 <![CDATA[El requisito o requisitos no pueden ser entendidos por algún lector]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0005">
-<rem:name>No verificabilidad</rem:name>
+<rem:defectTypeValue oid = "DTV-0010">
+<rem:name>Redundancia</rem:name>
 <rem:description>
-<![CDATA[No se puede comprobar que el sistema satisface el requisito o requisitos]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0006">
-<rem:name>Inconsistencia</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no son consistentes, es decir, presentan contradicciones internas o entre varios]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0014">
-<rem:name>Estabilidad no establecida</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no tienen estimada su estabilidad]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0012">
-<rem:name>Incompleción</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no describen todo lo que el sistema se supone que deberá hacer, no describen las respuestas del sistema a todas las posibles situaciones o incluyen elementos por determinar (PD)]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0013">
-<rem:name>Prioridad no establecida</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no tienen establecida su prioridad, es decir, su importancia y su urgencia]]>
+<![CDATA[El requisito o requisitos son redundantes o contienen elementos redundantes]]>
 </rem:description>
 </rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0016">
@@ -4495,40 +5257,10 @@
 <![CDATA[El requisito o requisitos presentan otro tipo de defecto]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0010">
-<rem:name>Redundancia</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos son redundantes o contienen elementos redundantes]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0008">
-<rem:name>Verbosidad excesiva</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos pueden expresarse de forma más concisa sin alterar su significado]]>
-</rem:description>
-</rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0009">
 <rem:name>Dependiente del diseño</rem:name>
 <rem:description>
 <![CDATA[El requisito o requisitos incluyen elementos dependientes del diseño del sistema]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0017">
-<rem:name>Organización incorrecta</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no están organizados correctamente según la normativa aplicada o el documento no contiene las secciones obligatorias]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0007">
-<rem:name>No implementabilidad</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no pueden ser implementados con la tecnología actual o dentro de un coste razonable]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0015">
-<rem:name>Nivel incorrecto de detalle</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no están expresados con el nivel adecuado de detalle, es decir, son demasiado abstractos o demasiado detallados]]>
 </rem:description>
 </rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0011">
@@ -4537,26 +5269,74 @@
 <![CDATA[El requisito o requisitos no se expresan de forma precisa, es decir, usando cantidades numéricas siempre que sea posible con el nivel adecuado de precisión]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:importanceValue oid = "IMV-0003">
-<rem:name>importante</rem:name>
+<rem:defectTypeValue oid = "DTV-0012">
+<rem:name>Incompleción</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no describen todo lo que el sistema se supone que deberá hacer, no describen las respuestas del sistema a todas las posibles situaciones o incluyen elementos por determinar (PD)]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0013">
+<rem:name>Prioridad no establecida</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no tienen establecida su prioridad, es decir, su importancia y su urgencia]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0015">
+<rem:name>Nivel incorrecto de detalle</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no están expresados con el nivel adecuado de detalle, es decir, son demasiado abstractos o demasiado detallados]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0017">
+<rem:name>Organización incorrecta</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no están organizados correctamente según la normativa aplicada o el documento no contiene las secciones obligatorias]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0006">
+<rem:name>Inconsistencia</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no son consistentes, es decir, presentan contradicciones internas o entre varios]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0014">
+<rem:name>Estabilidad no establecida</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no tienen estimada su estabilidad]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0008">
+<rem:name>Verbosidad excesiva</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos pueden expresarse de forma más concisa sin alterar su significado]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0007">
+<rem:name>No implementabilidad</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no pueden ser implementados con la tecnología actual o dentro de un coste razonable]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:importanceValue oid = "IMV-0001">
+<rem:name>PD</rem:name>
 </rem:importanceValue>
 <rem:importanceValue oid = "IMV-0004">
 <rem:name>quedaría bien</rem:name>
 </rem:importanceValue>
+<rem:importanceValue oid = "IMV-0003">
+<rem:name>importante</rem:name>
+</rem:importanceValue>
 <rem:importanceValue oid = "IMV-0002">
 <rem:name>vital</rem:name>
-</rem:importanceValue>
-<rem:importanceValue oid = "IMV-0001">
-<rem:name>PD</rem:name>
 </rem:importanceValue>
 <rem:stabilityValue oid = "SBV-0001">
 <rem:name>PD</rem:name>
 </rem:stabilityValue>
-<rem:stabilityValue oid = "SBV-0004">
-<rem:name>alta</rem:name>
-</rem:stabilityValue>
 <rem:stabilityValue oid = "SBV-0003">
 <rem:name>media</rem:name>
+</rem:stabilityValue>
+<rem:stabilityValue oid = "SBV-0004">
+<rem:name>alta</rem:name>
 </rem:stabilityValue>
 <rem:stabilityValue oid = "SBV-0002">
 <rem:name>baja</rem:name>
@@ -4564,71 +5344,71 @@
 <rem:statusValue oid = "STV-0001">
 <rem:name>PD</rem:name>
 </rem:statusValue>
-<rem:statusValue oid = "STV-0005">
-<rem:name>validado</rem:name>
-</rem:statusValue>
 <rem:statusValue oid = "STV-0002">
 <rem:name>en construcción</rem:name>
 </rem:statusValue>
 <rem:statusValue oid = "STV-0004">
 <rem:name>pendiente de validación</rem:name>
 </rem:statusValue>
+<rem:statusValue oid = "STV-0005">
+<rem:name>validado</rem:name>
+</rem:statusValue>
 <rem:statusValue oid = "STV-0003">
 <rem:name>pendiente de verificación</rem:name>
 </rem:statusValue>
+<rem:terminationValue oid = "TEV-0002">
+<rem:name>continúa</rem:name>
+</rem:terminationValue>
 <rem:terminationValue oid = "TEV-0001">
 <rem:name>PD</rem:name>
 </rem:terminationValue>
 <rem:terminationValue oid = "TEV-0003">
 <rem:name>queda sin efecto</rem:name>
 </rem:terminationValue>
-<rem:terminationValue oid = "TEV-0002">
-<rem:name>continúa</rem:name>
-</rem:terminationValue>
+<rem:timeUnitValue oid = "TUV-0008">
+<rem:name>día(s)</rem:name>
+</rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0007">
 <rem:name>semana(s)</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0005">
-<rem:name>mes(es)</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0001">
 <rem:name>PD</rem:name>
 </rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0010">
-<rem:name>minuto(s)</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0009">
-<rem:name>hora(s)</rem:name>
-</rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0002">
 <rem:name>año(s)</rem:name>
 </rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0008">
-<rem:name>día(s)</rem:name>
+<rem:timeUnitValue oid = "TUV-0005">
+<rem:name>mes(es)</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0012">
 <rem:name>décima(s) de segundo</rem:name>
 </rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0013">
-<rem:name>centésima(s) de segundo</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0011">
-<rem:name>segundo(s)</rem:name>
+<rem:timeUnitValue oid = "TUV-0010">
+<rem:name>minuto(s)</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0014">
 <rem:name>milisegundo(s)</rem:name>
 </rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0013">
+<rem:name>centésima(s) de segundo</rem:name>
+</rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0009">
+<rem:name>hora(s)</rem:name>
+</rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0011">
+<rem:name>segundo(s)</rem:name>
+</rem:timeUnitValue>
 <rem:urgencyValue oid = "URV-0002">
 <rem:name>inmediatamente</rem:name>
-</rem:urgencyValue>
-<rem:urgencyValue oid = "URV-0001">
-<rem:name>PD</rem:name>
 </rem:urgencyValue>
 <rem:urgencyValue oid = "URV-0003">
 <rem:name>hay presión</rem:name>
 </rem:urgencyValue>
 <rem:urgencyValue oid = "URV-0004">
 <rem:name>puede esperar</rem:name>
+</rem:urgencyValue>
+<rem:urgencyValue oid = "URV-0001">
+<rem:name>PD</rem:name>
 </rem:urgencyValue>
 </rem:predefinedValues>
 </rem:requirementsProject>
